@@ -8,6 +8,5 @@ describe("An arithmetic library", () => {
 
     expect(sum(3,4)).toBe(7);
 
-
   });
 });
